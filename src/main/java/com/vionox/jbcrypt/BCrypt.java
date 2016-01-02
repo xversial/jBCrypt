@@ -1,4 +1,4 @@
-package org.mindrot;
+package com.vionox.jbcrypt;
 
 // Copyright (c) 2006 Damien Miller <djm@mindrot.org>
 //
